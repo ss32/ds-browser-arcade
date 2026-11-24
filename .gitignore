@@ -1,0 +1,9 @@
+node_modules/
+vendor/
+dist/
+saves/
+*.nds
+*.zip
+*.sav
+*.dsv
+*.state

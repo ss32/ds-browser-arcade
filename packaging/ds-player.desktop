@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=DS Player
+Comment=Play your own Nintendo DS backups in the browser
+Exec=ds-player
+Icon=ds-player
+Terminal=false
+Categories=Game;Emulator;
